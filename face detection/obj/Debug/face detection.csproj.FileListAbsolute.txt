@@ -1,0 +1,49 @@
+C:\Users\User\source\repos\face detection\face detection\bin\Debug\x64\concrt140.dll
+C:\Users\User\source\repos\face detection\face detection\bin\Debug\x64\cvextern.dll
+C:\Users\User\source\repos\face detection\face detection\bin\Debug\x64\msvcp140.dll
+C:\Users\User\source\repos\face detection\face detection\bin\Debug\x64\opencv_videoio_ffmpeg411_64.dll
+C:\Users\User\source\repos\face detection\face detection\bin\Debug\x64\vcruntime140.dll
+C:\Users\User\source\repos\face detection\face detection\bin\Debug\x86\concrt140.dll
+C:\Users\User\source\repos\face detection\face detection\bin\Debug\x86\cvextern.dll
+C:\Users\User\source\repos\face detection\face detection\bin\Debug\x86\msvcp140.dll
+C:\Users\User\source\repos\face detection\face detection\bin\Debug\x86\opencv_videoio_ffmpeg411.dll
+C:\Users\User\source\repos\face detection\face detection\bin\Debug\x86\vcruntime140.dll
+C:\Users\User\source\repos\face detection\face detection\bin\Debug\haarcascade_eye.xml
+C:\Users\User\source\repos\face detection\face detection\bin\Debug\face detection.exe.config
+C:\Users\User\source\repos\face detection\face detection\bin\Debug\face detection.exe
+C:\Users\User\source\repos\face detection\face detection\bin\Debug\face detection.pdb
+C:\Users\User\source\repos\face detection\face detection\bin\Debug\AForge.dll
+C:\Users\User\source\repos\face detection\face detection\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\User\source\repos\face detection\face detection\bin\Debug\AForge.Video.dll
+C:\Users\User\source\repos\face detection\face detection\bin\Debug\Emgu.CV.UI.dll
+C:\Users\User\source\repos\face detection\face detection\bin\Debug\Emgu.CV.World.dll
+C:\Users\User\source\repos\face detection\face detection\bin\Debug\ZedGraph.dll
+C:\Users\User\source\repos\face detection\face detection\bin\Debug\AForge.xml
+C:\Users\User\source\repos\face detection\face detection\bin\Debug\AForge.Video.xml
+C:\Users\User\source\repos\face detection\face detection\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\User\source\repos\face detection\face detection\bin\Debug\Emgu.CV.UI.xml
+C:\Users\User\source\repos\face detection\face detection\bin\Debug\Emgu.CV.World.xml
+C:\Users\User\source\repos\face detection\face detection\bin\Debug\ZedGraph.xml
+C:\Users\User\source\repos\face detection\face detection\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\User\source\repos\face detection\face detection\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\User\source\repos\face detection\face detection\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\User\source\repos\face detection\face detection\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\User\source\repos\face detection\face detection\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\User\source\repos\face detection\face detection\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\User\source\repos\face detection\face detection\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\User\source\repos\face detection\face detection\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\User\source\repos\face detection\face detection\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\User\source\repos\face detection\face detection\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\User\source\repos\face detection\face detection\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\User\source\repos\face detection\face detection\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\User\source\repos\face detection\face detection\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\User\source\repos\face detection\face detection\obj\Debug\face detection.csprojAssemblyReference.cache
+C:\Users\User\source\repos\face detection\face detection\obj\Debug\face_detection.Form1.resources
+C:\Users\User\source\repos\face detection\face detection\obj\Debug\face_detection.Properties.Resources.resources
+C:\Users\User\source\repos\face detection\face detection\obj\Debug\face detection.csproj.GenerateResource.cache
+C:\Users\User\source\repos\face detection\face detection\obj\Debug\face detection.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\face detection\face detection\obj\Debug\face detection.csproj.CopyComplete
+C:\Users\User\source\repos\face detection\face detection\obj\Debug\face detection.exe
+C:\Users\User\source\repos\face detection\face detection\obj\Debug\face detection.pdb
+C:\Users\User\source\repos\face detection\face detection\bin\Debug\haarcascade_eye_tree_eyeglasses.xml
+C:\Users\User\source\repos\face detection\face detection\bin\Debug\haarcascade_frontalface_alt_tree.xml
